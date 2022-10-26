@@ -12,7 +12,7 @@ email: kingbob@gmail.com
 website: www.minionsmovie.com
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: BobAMinion
