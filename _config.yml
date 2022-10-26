@@ -115,6 +115,11 @@ content:
        
        <img src="https://data.whicdn.com/images/131350410/original.png" alt="image" height="400" width="600">
 
+additional_links:
+- title: Evil
+  icon: (https://www.pngitem.com/pimgs/m/126-1264011_evil-icon-angry-icon-black-transparent-background-hd.png)
+  url: https://www.amazon.com/Evil-Minion/s?k=Evil+Minion
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
