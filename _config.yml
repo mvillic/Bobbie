@@ -16,7 +16,7 @@ darkmode: never
 
 # Social links
 twitter_username: BobAMinion
-github_username:  Bobbie
+github_username:  mvillic
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -114,11 +114,6 @@ content:
       My current workplace:
        
        <img src="https://data.whicdn.com/images/131350410/original.png" alt="image" height="400" width="600">
-
-additional_links:
-- title: Evil
-  icon: (https://www.pngitem.com/pimgs/m/126-1264011_evil-icon-angry-icon-black-transparent-background-hd.png)
-  url: https://www.amazon.com/Evil-Minion/s?k=Evil+Minion
 
 # Footer
 footer_show_references: true
