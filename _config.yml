@@ -72,7 +72,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I am very dedicated to those I follow. This project displays not only displays my choreography, singing, and overall music skills, but also teamwork ability. The Minion team is known for being passionate and creative. We create **very deep** bonds with those we work for. _Love the Boss_
 
-  - title: ## Experience # Title for the section
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -103,7 +103,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my activities performed under Gru Industries, further hobbies and interests are:
+      #Alongside my activities performed under Gru Industries, further hobbies and interests are:
       - Rat - [Poochy](https://despicableme.fandom.com/wiki/Poochy)
       - Tim - [Teddy Bear](https://despicableme.fandom.com/wiki/Tim_(teddy_bear))
       - Bedtime stories: [click for example](https://www.youtube.com/watch?v=UzbgJIl9jMc)
