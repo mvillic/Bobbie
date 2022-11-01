@@ -72,7 +72,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I am very dedicated to those I follow. This project displays not only displays my choreography, singing, and overall music skills, but also teamwork ability. The Minion team is known for being passionate and creative. We create **very deep** bonds with those we work for. _Love the Boss_
 
-  - title: Experience # Title for the section
+  - title: ## Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
